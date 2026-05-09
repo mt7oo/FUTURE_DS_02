@@ -5,7 +5,6 @@ Dataset used: Telco Customer Churn Dataset
 Source:
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
-Task File- "C:\Users\User\Downloads\Customer Rentention Analysis.pbix"
 
 ## Dashboard Screenshots
 
