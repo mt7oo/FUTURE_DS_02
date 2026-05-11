@@ -1,7 +1,10 @@
 ### TASK 2
-Tool used: Power BI
 
-Dataset used: Telco Customer Churn Dataset
+## Tool used:
+   Power BI
+
+## Dataset used:
+Telco Customer Churn Dataset
 Source:
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
